@@ -87,7 +87,7 @@
     <distributionManagement>
         <!-- 发布到nexus,$M2_HOME/settings.xml配置中必须有ID为xxx的server配置 -->
         <repository>
-            <id>hooenergy</id>
+            <id>xxx</id>
             <url>http://xxx/nexus/content/repositories/thirdparty/</url>
         </repository>
     </distributionManagement>
